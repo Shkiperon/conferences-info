@@ -129,7 +129,7 @@
 
 [Заметки разработчиков по миграции с версии 3.3 на 3.4](https://www.opensips.org/Documentation/Migration-3-3-0-to-3-4-0)
 
-[ChangeLog](https://opensips.org/pub/opensips/3.4.0/ChangeLog)
+[ChangeLog 3.4.0](https://opensips.org/pub/opensips/3.4.0/ChangeLog)
 
 [Коммиты на момент релиза](https://github.com/OpenSIPS/opensips/commits/3.4.0)
 
